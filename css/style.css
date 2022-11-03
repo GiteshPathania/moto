@@ -1,0 +1,52 @@
+.main{width:100%;height:4000px}
+
+.main1{width:50%;height:700px;float:left;}
+.div{border:1px solid white;width:100%;height:98px;}
+.logo{width:50px;height:50px;margin-left:210px;margin-top:40px;}
+
+.div1{width:100%;height:600px;background-color:#0c0f38;}
+.text{color:white;font-size:60px;line-height:70px;font-family:'baloo chettan', cursive;padding-left:230px;padding-left:230px;font-weight:bold;padding-top:130px;}
+.text1{font-size:30px;color:white;padding-top:20px;padding-left:220px;font-weight:bold;font-family:'baloo chettan', cursive}
+.text2{color:#DA16e6;font-size:30px;padding-left:220px;padding-top:20px;font-weight:bold;font-family:'baloo chettan', cursive}
+.text3{border:1px solid white;font-family:sans-serif;cursor: pointer;width:190px;text-align:center;color:#DA16e6;height:40px;padding-top:20px;background-color:white;margin-top:30px;margin-left:220px;}
+.text3:hover{border:1px solid #da16e6;transition:2s;background-color: #DA16e6;color:white;}
+
+.main2{width:50%;float:left;height:800px}
+.div2{width:100%;height:800px;background-image:url(../images/top_img.png);background-size:100% 100%;background-color:#da16e6;}
+.indiv{border:1px solid #DA16e6;width:400px;height:40px;margin-left:200px;}
+ul li{display: inline-block;cursor: pointer;padding-top:20px;font-family:sans-serif;color:white;padding-left:30px;}
+ul li:hover{color:black}
+
+.main3{border:1px solid white;width:100%;height:320px;clear: both;}
+.div3{border:1px solid white;width:620px;height:110px;margin: auto;margin-top: 80px;font-family:'baloo chettan', cursive;font-weight:bold;font-size:55px;}
+.div4{border:1px solid white;margin:auto;width:80%;height:70px;color:#747373;font-family:sans-serif;text-align:center;line-height:23px;font-size:17px;}
+
+.main4{border:1px solid white;width:100%;height:840px;clear: both;;}
+.div5{border:1px solid white;width:50%;margin:auto;height:700px;background-image:url('../images/feature_img.png');}
+.div6{border:1px solid ;font-family:sans-serif;cursor: pointer;width:190px;text-align:center;color:white;height:40px;padding-top:20px;background-color:black;margin-top:30px;margin-left:680px;}
+.div6:hover{border:1px solid #DA16e6;background-color: #DA16e6;transition:2s;}
+
+.main5{border:1px solid #0c0f38;width:100%;height:850px;background-color: #0c0f38;}
+.div7{border:1px solid #0c0f38;width:60%;height:850px;float:left}
+.div8{border:1px solid #0c0f38;width:450px;height:90px;margin-left: 150;margin-top:150px;color:white;font-size:45px;font-family:'baloo chettan',cursive;}
+.div10{border:1px solid #0c0f38;width:530px;height:100px;margin-left:150px;color:#DA16e6;font-size:45px;font-family:'baloo chettan',cursive;}
+.div11{border:1px solid #0c0f38;width:80%;height:130px;color:white;font-size:16px;line-height:28px;margin-left:150px;font-family:'baloo chettan',cursive;}
+.div12{border:1px solid white;font-family:sans-serif;cursor: pointer;width:190px;text-align:center;color:#DA16e6;height:40px;padding-top:20px;background-color:white;margin-top:100px;margin-left:150px;}
+.div12:hover{border:1px solid #DA16e6;background-color: #DA16e6;color:white;transition:2s;}
+
+
+.div9{border:1px solid #0c0f38;width:38%;height:850px;float:left}
+.img3{border:1px solid #0c0f38;margin-top:100px;width:65%;height:650px;background-image: url('../images/can.png');background-size:100% 100%;}
+
+.main6{border:1px solid white;width:100%;height:620px}
+.div13{width:490px;height:90px;margin: auto;font-weight:bold;margin-top: 100px;font-family:'baloo chettan',cursive;font-size:45px;}
+.div14{width:66%;color:#747373;height:60px;margin: auto;font-family:sans-serif;font-size:17px;}
+.div15{width:70%;color:#747373;height:170px;text-align:center;line-height:28px;margin: auto;font-family:sans-serif;font-size:19px;}
+.custmor{width:8%;margin: auto;;height:160px;}
+
+.main7{border:1px solid white;width:100%;height:450px;background-color:#f4f5fe;}
+.div16{width:28%;margin: auto;padding-top: 60px;height:60px;font-weight:bold;font-family: sans-serif;color:#DA16e6;font-size:35px;}
+.div17{width:77%;color:#747373;height:90px;text-align: center;margin: auto;font-size:22px;padding-top: 30px;}
+.div18{width:30%;height:100px;float: left;font-size:29px;margin-left:320px;font-weight:bold;}
+.div19{width:30%;height:100px;float: left;font-size: 29px;font-weight:bold;}
+.div20{width:100%;height:20px;font-size: 20px;color:green;padding-top:40px;text-align: center;font-weight:bold;}
